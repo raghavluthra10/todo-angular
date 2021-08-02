@@ -6,5 +6,12 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'cwh-todo-list';
+  title = 'Todo-List';
+
+  constructor(){
+  
+    
+  };
 }
+
+//1:59:00
