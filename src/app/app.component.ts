@@ -8,10 +8,4 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'Todo-List';
 
-  constructor(){
-  
-    
-  };
 }
-
-//1:59:00
