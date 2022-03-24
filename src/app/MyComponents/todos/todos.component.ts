@@ -6,6 +6,7 @@ import { Todo } from '../../Todo';
   templateUrl: './todos.component.html',
   styleUrls: ['./todos.component.css']
 })
+
 export class TodosComponent implements OnInit {
   localItem: string | null;
   // make todos of the Todo model array
